@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "GO1\\": "src"
+    }
+  },
+  "require": {
+    "phpunit/phpunit": "^8.3"
+  }
+}

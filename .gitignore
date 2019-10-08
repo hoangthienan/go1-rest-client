@@ -1,0 +1,7 @@
+.idea
+.DS_Store
+uploads
+vendor
+config.php
+index.php
+composer.lock
